@@ -1,5 +1,11 @@
 # MyIP.py
 Tool ini berfungsi untuk mencek lokasi IP yang akan menjadi target. 
+# Install Tool
 
-Jika kamu menggunakan termux, silahkan download git, selanjutnya download repository https://github.com/hidayat-code/MyIP.py dan masuk ke dalam reponya cd MyIP.Py selanjutnya python MyIP.Py
-Masukkan IP yang ingin di Lacak lokasinya
+```
+$ sudo apt-get install git
+$ git clone https://github.com/hidayat-code/MyIP.py 
+$ cd MyIP
+$ python MyIP.py
+```
+Setelah itu masukan IP yang akan di lacak
